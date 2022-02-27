@@ -112,7 +112,7 @@
 }
 
 #home .content h1::after{
-  content: "Carnot";
+  content: "Carnot's Portofolio";
   animation: textanim 10s linear infinite;
 }
 
